@@ -3049,9 +3049,9 @@ break
 case 'sewa':
 m.reply(`*BOT ON 24 JAM & BISA BUAT PRICELIST*
 ╭──「 *_SEWA BOT_* 」
-├  1 MINGGU : IDR 10.000 (10k)
-├  1 BULAN : IDR 15.000 (15k)
-├   PERMANEN : IDR 50.000 (50k)
+├  1 MINGGU : IDR 3.000 (3k)
+├  1 BULAN : IDR 4.000 (4k)
+├   PERMANEN : IDR 5.000 (5k)
 ╰────
 ╭─ [ KELEBIHAN BOT ]
 ├  ＯＮ 24 ＪＡＭ
@@ -3060,15 +3060,15 @@ m.reply(`*BOT ON 24 JAM & BISA BUAT PRICELIST*
 ╰────
 ╭─[ KEUNTUNGAN ]
 ├  ANTI LINK ( AUTO KICK )
-├  ANTI VIRTEX ( AUTO KICK )
+├  ANTI VIRTEX ( 
 ├  WELCOME ( OTOMATIS )
 ├  DAN RATUSAN FITUR LAINYA
 ╰────
 ╭─[ *MINAT CHAT* ]
-├  🪀 wa.me/6282279915237?text=sewa+bot
+├  🪀 wa.me/621241056195?text=sewa+bot
 ╰────
-╭─[ *TES BOT? CHAT NOMER DI BAWAH* ]
-├ Wa.me/6285750758067
+╭─[ *TES BOT? CHAT NOMER DI BAWAH* 
+├ wa.me/6281241056195
 ╰────
 ╭─[ *PAYMENT* ]
 ├  GOPAY
@@ -3086,7 +3086,7 @@ m.reply(`*BOT ON 24 JAM & BISA BUAT PRICELIST*
 ╭─ [ FASILITAS ]
 ├  CUMA SCAN QR DOANG JADI                
 │    BOT + OWNER
-├  DI RUN DI RDP BUKAN HEROKU
+├  DI RUN DI HEROKU /OKTETO
 ├  FITUR BOT NYA BANYAK
 ├  BANYAK FITUR LANGKA
 ├  BUKAN BOT WIBUSOFT
@@ -3097,7 +3097,7 @@ m.reply(`*BOT ON 24 JAM & BISA BUAT PRICELIST*
 │    DLL DI GANTI JADI TERSERAH LU
 ╰────
 ╭─[ *MINAT CHAT* ]
-├  🪀 wa.me/6282279915237?text=jadi+bot
+├  🪀 wa.me/6281241056195?text=jadi+bot
 ╰────
 
 
@@ -3113,7 +3113,7 @@ m.reply(`*BOT ON 24 JAM & BISA BUAT PRICELIST*
 ├  BISA OPEN MURID 
 ╰────
 ╭─[ *MINAT CHAT* ]
-├  🪀 wa.me/6282279915237?text=join+murid+bot
+├  🪀 wa.me/6281241056195?text=join+murid+bot
 ╰────`)
 break
 case 'antilink': {
